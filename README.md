@@ -10,5 +10,6 @@
     2. POST
     3. PUT
     4. DELETE
+    
 La ruta para los para acceder a la api es: http://localhost:8000/api/v1/users ocupando el puerto 8000 del
 servidor local
